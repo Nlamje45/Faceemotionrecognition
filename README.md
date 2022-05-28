@@ -40,3 +40,5 @@ Hyper-parameter that were used are epochs = 48,batch_size = 225 and learning_rat
 Our model shows accuracy of 68% on validation set and 80% on train set.
 
 To access weblink please click on this link(streamlit share): [Streamlit](https://share.streamlit.io/nlamje45/deployemotrecg/main/app.py)
+
+![](https://github.com/Nlamje45/Faceemotionrecognition/blob/main/Cp5.png)
